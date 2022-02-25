@@ -1,7 +1,7 @@
 # Hashcode 2022
 
 Our solution for the coding challenge [Hashcode 2022](https://codingcompetitions.withgoogle.com/hashcode).<br>
-Team name: `Road Blizzards`
+Team name: `Road Blizzards` ([@cartmenez](https://github.com/cartmenez), [@FlopsKa](https://github.com/FlopsKa), [@holtri](https://github.com/holtri), and [@englhardt](https://github.com/englhardt)).
 
 ### Competition results
 Place 1108 out of 10177 teams.
